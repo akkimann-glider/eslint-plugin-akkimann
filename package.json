@@ -1,5 +1,5 @@
 {
-  "name": "@akkimann/eslint-plugin",
+  "name": "@akkimann/mongodb-positional-operator-placement-restriction",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AkhilJSON/eslint-plugin.git"
+    "url": "git+https://github.com/AkhilJSON/mongodb-positional-operator-placement-restriction.git"
   },
   "author": "akkimannpro",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AkhilJSON/eslint-plugin/issues"
+    "url": "https://github.com/AkhilJSON/mongodb-positional-operator-placement-restriction/issues"
   },
-  "homepage": "https://github.com/AkhilJSON/eslint-plugin#readme"
+  "homepage": "https://github.com/AkhilJSON/mongodb-positional-operator-placement-restriction#readme"
 }
