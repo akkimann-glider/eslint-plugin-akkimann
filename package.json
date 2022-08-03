@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AkhilJSON/meteor-mongo-no-posistional-operator-in-between.git"
+    "url": "git+https://github.com/AkhilJSON/eslint-plugin-akkimann.git"
   },
   "author": "akkimannpro",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AkhilJSON/meteor-mongo-no-posistional-operator-in-between/issues"
+    "url": "https://github.com/AkhilJSON/eslint-plugin-akkimann/issues"
   },
-  "homepage": "https://github.com/AkhilJSON/meteor-mongo-no-posistional-operator-in-between#readme"
+  "homepage": "https://github.com/AkhilJSON/eslint-plugin-akkimann#readme"
 }
