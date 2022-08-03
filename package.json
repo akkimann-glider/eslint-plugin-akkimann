@@ -1,0 +1,24 @@
+{
+  "name": "meteor-mongo-no-posistional-operator-in-between",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": "8.14.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkhilJSON/meteor-mongo-no-posistional-operator-in-between.git"
+  },
+  "author": "akkimannpro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkhilJSON/meteor-mongo-no-posistional-operator-in-between/issues"
+  },
+  "homepage": "https://github.com/AkhilJSON/meteor-mongo-no-posistional-operator-in-between#readme"
+}
