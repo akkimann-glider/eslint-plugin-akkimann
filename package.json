@@ -1,6 +1,6 @@
 {
-  "name": "meteor-mongo-no-posistional-operator-in-between",
-  "version": "1.0.1",
+  "name": "eslint-plugin-akkimann",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "peerDependencies": {
