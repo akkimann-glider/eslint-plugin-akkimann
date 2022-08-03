@@ -1,0 +1,9 @@
+{
+    "name": "@akkimann/eslint-plugin",
+    "version": "1.0.0",
+    "private": false,
+    "main": "index.js",
+    "peerDependencies": {
+        "eslint": "8.14.0"
+    }
+}
