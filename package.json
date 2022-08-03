@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "peerDependencies": {
+    "eslint": "8.14.0"
+  },
   "dependencies": {},
   "devDependencies": {},
   "scripts": {

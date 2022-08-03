@@ -1,5 +1,5 @@
 module.exports = {
     rules: {
-        "mongodb-positional-operator-placement-restriction": require("./mongodb-positional-operator-placement-restriction"),
+        "eslint-plugin-no-posistional-operator-in-between": require("./eslint-plugin-no-posistional-operator-in-between"),
     },
 };
